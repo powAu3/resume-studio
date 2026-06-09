@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+output
+coverage
+.env
+.env.*
+.privacy-denylist.local
+
+# Personal resume data and exports
+resume-data*.json
+*.resume.json
+*real-data*
+*imported-data*
+private/
+personal/
+raw-resume/
+*.pdf
+*.doc
+*.docx
+*.rtf
+*.pages
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local dev logs
+vite-*.log
