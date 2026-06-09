@@ -2,6 +2,8 @@
 
 A client-side resume editor built with React, TypeScript, and Vite.
 
+Live demo: https://powau3.github.io/resume-studio/
+
 ## Preview
 
 Only anonymized demo data is included in this repository. Personal resume data, imported JSON, exported PDFs, and private screenshots must stay local and must not be committed.
